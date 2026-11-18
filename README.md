@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/gtaxc-logo.png" alt="GTAXC logo" width="280">
+<img src="./gtaxc-logo.png" alt="GTAXC logo" width="280">
 
 # GTAXC
 
